@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Contents",
+    "section": "",
+    "text": "This website lists repositories of statistical software packages developed by the team of the Institute of Clinical Biometrics, Center for Medical Data Science, Medical University of Vienna, to accompany their research projects.\nPlease note that the programs are prototypes: * The programs have been designed for our programming environment. We cannot guarantee their functioning in other hard- and software environments. You may have to do some adaptions yourself. * We have extensivly tested the programs, yet we deny liability for results from these programs.\nThis website is under development, more repositories will be added soon.\n\nStatistical modeling\nflicflac - SAS (c) macros for Firth’s correction in logistic, Cox and Poisson regression\nlogistf - R package for Firth’s correction in logistic regression (including FLIC and FLAC methods)\ncoxphf - R package for Firth’s correction in Cox regression\nshrink - R package for Global, Parameterwise and Joint Shrinkage Factor Estimation\nconcreg - R package for semiparametric concordance regression\n\n\nSurvival analysis\npshreg - SAS (c) macro for Proportional Subdistribution Hazards Regression\ncoxphw - R package for weighted Cox regression (average hazard ratio estimation)\nSurvCorr - R package for estimation of correlation coefficients with associated confidence limits for bivariate, partially censored survival times.\n\n\nExplained variation\nNecSuff - R and SAS (c) programs for degrees of necessity and of sufficiency\nrelimp - SAS (c) macro to compare the importance of prognostic factors; for logistic and Cox regression"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Impressum",
+    "section": "",
+    "text": "Author: Georg Heinze, Medical University of Vienna, 2024"
+  }
+]

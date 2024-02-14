@@ -1,0 +1,35 @@
+---
+title: "Contents"
+---
+
+This website lists repositories of statistical software packages developed by the team of the [Institute of Clinical Biometrics](https://data-science.meduniwien.ac.at/institute/klinische-biometrie), [Center for Medical Data Science](https://data-science.meduniwien.ac.at), [Medical University of Vienna](https://www.meduniwien.ac.at), to accompany their research projects.
+
+Please note that the programs are prototypes: \* The programs have been designed for our programming environment. We cannot guarantee their functioning in other hard- and software environments. You may have to do some adaptions yourself. \* We have extensivly tested the programs, yet we deny liability for results from these programs.
+
+This website is under development, more repositories will be added soon.
+
+# Statistical modeling
+
+[*flicflac*](https://github.com/georgheinze/flicflac) - SAS (c) macros for Firth's correction in logistic, Cox and Poisson regression
+
+[*logistf*](https://github.com/georgheinze/logistf) - R package for Firth's correction in logistic regression (including FLIC and FLAC methods)
+
+[*coxphf*](https://github.com/georgheinze/coxphf) - R package for Firth's correction in Cox regression
+
+[*shrink*](https://github.com/biometrician/shrink) - R package for Global, Parameterwise and Joint Shrinkage Factor Estimation
+
+[*concreg*](https://github.com/georgheinze/concreg) - R package for semiparametric concordance regression
+
+# Survival analysis
+
+[*pshreg*](https://github.com/georgheinze/pshreg) - SAS (c) macro for Proportional Subdistribution Hazards Regression
+
+[*coxphw*](https://github.com/biometrician/coxphw) - R package for weighted Cox regression (average hazard ratio estimation)
+
+[*SurvCorr*](https://github.com/georgheinze/SurvCorr) - R package for estimation of correlation coefficients with associated confidence limits for bivariate, partially censored survival times.
+
+# Explained variation
+
+[*NecSuff*](https://github.com/agleiss/NecSuff) - R and SAS (c) programs for degrees of necessity and of sufficiency
+
+[*relimp*](https://github.com/georgheinze/relimp) - SAS (c) macro to compare the importance of prognostic factors; for logistic and Cox regression
