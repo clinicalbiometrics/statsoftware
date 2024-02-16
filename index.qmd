@@ -2,9 +2,21 @@
 title: "Contents"
 ---
 
-This website lists repositories of statistical software packages developed by the team of the [Institute of Clinical Biometrics](https://data-science.meduniwien.ac.at/institute/klinische-biometrie), [Center for Medical Data Science](https://data-science.meduniwien.ac.at), [Medical University of Vienna](https://www.meduniwien.ac.at), to accompany their research projects.
+This website lists repositories of statistical software packages developed by the team of the \
+[Institute of Clinical Biometrics](https://data-science.meduniwien.ac.at/institute/klinische-biometrie), \
+[Center for Medical Data Science](https://data-science.meduniwien.ac.at), \
+[Medical University of Vienna](https://www.meduniwien.ac.at), \
+to accompany their research projects.
 
-Please note that the programs are prototypes: \* The programs have been designed for our programming environment. We cannot guarantee their functioning in other hard- and software environments. You may have to do some adaptions yourself. \* We have extensivly tested the programs, yet we deny liability for results from these programs.
+Please note that the programs are prototypes:
+
+-   **The programs have been designed for our programming environment.**
+
+-   **We cannot guarantee their functioning in other hard- and software environments.**
+
+-   **You may have to do some adaptions yourself.**
+
+We have extensively tested the programs, yet we deny liability for results from these programs.
 
 This website is under development, more repositories will be added soon.
 
@@ -15,6 +27,8 @@ This website is under development, more repositories will be added soon.
 [*logistf*](https://github.com/georgheinze/logistf) - R package for Firth's correction in logistic regression (including FLIC and FLAC methods)
 
 [*coxphf*](https://github.com/georgheinze/coxphf) - R package for Firth's correction in Cox regression
+
+[*abe*](https://github.com/biometrician/abe-for-sas) - SAS (c) macros for Augmented Backward Elimination (variable selection)
 
 [*shrink*](https://github.com/biometrician/shrink) - R package for Global, Parameterwise and Joint Shrinkage Factor Estimation
 
@@ -33,3 +47,9 @@ This website is under development, more repositories will be added soon.
 [*NecSuff*](https://github.com/agleiss/NecSuff) - R and SAS (c) programs for degrees of necessity and of sufficiency
 
 [*relimp*](https://github.com/georgheinze/relimp) - SAS (c) macro to compare the importance of prognostic factors; for logistic and Cox regression
+
+# Simulation studies
+
+[*simdata*](https://matherealize.github.io/simdata/) - An R package to generate simulated data sets
+
+[*looplot*](https://github.com/matherealize/looplot) - An R package for creating nested loop plots
